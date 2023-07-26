@@ -1,7 +1,8 @@
 title: César Cornejo # your name (or website title) here
 logo: "/images/perfil-circ.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  PhD student, Computer Science Department, University of Rio Cuarto and CONICET -  <a href="mailto:ccornejo@dc.exa.unrc.edu.ar">:e-mail:</a> 
+  PhD student, Computer Science Department, University of Rio Cuarto and CONICET -  
+  <a href="mailto:ccornejo@dc.exa.unrc.edu.ar">:e-mail: Email </a> 
 
   <br><br>
 
@@ -11,3 +12,4 @@ theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 plugins:
   - jemoji
+  - jekyll-remote-theme
