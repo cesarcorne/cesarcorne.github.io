@@ -30,7 +30,7 @@ César Cornejo - Doctoral Symposium - 35th IEEE/ACM International Conference on 
 
 Luciano Zemín, Simón Gutiérrez Brida, Ariel Godio, César Cornejo, Renzo Degiovanni, Germán Regis, Nazareno Aguirre, Marcelo F. Frias. - 10th SBST@ICSE 2017 - Buenos Aires, Argentina.
 
-#### *DynAlloy Analyzer: A Tool for the Specification and Analysis of Alloy Models with Dynamic Behaviour.*
+#### [*DynAlloy Analyzer: A Tool for the Specification and Analysis of Alloy Models with Dynamic Behaviour.*](/fse17demo-demoid350-p-a34566f-32565-final.pdf)
 
 Germán Regis, César Cornejo, Simón Gutiérrez Brida, Mariano Politano, Fernando Raverta, Pablo Ponzio, Nazareno Aguirre, Juan Pablo Galeotti y Marcelo Frias. - 11th Joint meeting of the European Software Engineering Conference and the ACM Sigsoft Symposium on the Foundations of Software Engineering – ESEC/FSE 2017 - Paderborn, Alemania
 
