@@ -26,7 +26,7 @@ César Cornejo - Doctoral Symposium - 35th IEEE/ACM International Conference on 
 
 ### 2017
 
-#### *An Analysis of the Suitability of Test-Based Patch Acceptance Criteria.*
+#### [*An Analysis of the Suitability of Test-Based Patch Acceptance Criteria.*](/formal-specs-for-program-repair-1.pdf)
 
 Luciano Zemín, Simón Gutiérrez Brida, Ariel Godio, César Cornejo, Renzo Degiovanni, Germán Regis, Nazareno Aguirre, Marcelo F. Frias. - 10th SBST@ICSE 2017 - Buenos Aires, Argentina.
 
