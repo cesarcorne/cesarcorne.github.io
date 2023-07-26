@@ -5,7 +5,7 @@
 
 * **Computer Science Phd student.** 
 
-* **Teaching Assistant** of *Introduction to Programming* at the [Computer Science Department](http://dc.exa.unrc.edu.ar), [University of Rio Cuarto](https://www.unrc.edu.ar).
+* **Teaching Assistant** at the [Computer Science Department](http://dc.exa.unrc.edu.ar), [University of Rio Cuarto](https://www.unrc.edu.ar).
 
 ---
 
@@ -18,6 +18,10 @@ I am a <a href="https://www.conicet.gov.ar">CONICET</a> funded PhD student at th
 
 
 </div>
+
+---
+
+#### News
 
 
 
