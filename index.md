@@ -16,10 +16,10 @@
 
 I am a <a href="https://www.conicet.gov.ar">CONICET</a> funded PhD student at the <a href="http://diogenes.dc.exa.unrc.edu.ar/research/">Software Engineering and Formal Methods Group</a> working under the supervision of Professor German Regis. 
 
-
 </div>
 
 ---
+
 
 #### News
 
