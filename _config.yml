@@ -6,7 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="mailto:ccornejo@dc.exa.unrc.edu.ar">:e-mail: Email </a> 
   <br><br>
-  <img src="images/mail.jpeg">
+  <img src="images/mail.jpeg" 
+    width="40"
+    height="40"/>
 
 
 
