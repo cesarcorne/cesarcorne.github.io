@@ -10,6 +10,27 @@ description: > # your text below (remove <br> elements if you don't need line br
   <link rel="stylesheet" href="academicons-1.9.4/academicons.min.css"/>
 
 
+  <ul class="icons">
+        <li>
+          <a href="" title="Institutional website"><i class="fas fa-university"></i></a>
+        </li>
+        <li>
+          <a href="" title="E-Mail"><i class="fas fa-envelope"></i></a>
+        </li>
+        <li>
+          <a href="" title="GitHub"><i class="fab fa-github"></i></a>
+        </li>
+        <li>
+          <a href="" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        </li>
+        <li>
+          <a href="" title="NASA / ADS"><i class="ai ai-ads"></i></a>
+        </li>
+        <li>
+          <a href="" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+        </li>
+      </ul>
+
  
 
 
