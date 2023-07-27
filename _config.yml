@@ -4,10 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   PhD student, Computer Science Department, University of Rio Cuarto and CONICET -  
 
   <br><br>
-  <a href=mailto:ccornejo@dc.exa.unrc.edu.ar"><img src="images/mail.jpeg" 
-    width="32"
-    height="22"/></a>
-   <!-- Include style sheets -->
+  
+  <!-- Include style sheets -->
     <link rel="stylesheet" href="main.css" />
 
     <!-- Fonts from Google Fonts -->
@@ -36,16 +34,13 @@ description: > # your text below (remove <br> elements if you don't need line br
           <a href="" title="Institutional website"><i class="fas fa-university"></i></a>
         </li>
         <li>
-          <a href="" title="E-Mail"><i class="fas fa-envelope"></i></a>
+          <a href="mailto:ccornejo@dc.exa.unrc.edu.ar" title="E-Mail"><i class="fas fa-envelope"></i></a>
         </li>
         <li>
           <a href="" title="GitHub"><i class="fab fa-github"></i></a>
         </li>
         <li>
           <a href="" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-        </li>
-        <li>
-          <a href="" title="NASA / ADS"><i class="ai ai-ads"></i></a>
         </li>
         <li>
           <a href="" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
