@@ -14,7 +14,7 @@
 <div style="text-align: justify"> 
 	
 
-I am a <a href="https://www.conicet.gov.ar">CONICET</a> funded PhD student at the <a href="http://diogenes.dc.exa.unrc.edu.ar/research/">Software Engineering and Formal Methods Group</a> working under the supervision of Professor German Regis. 
+I am a <a href="https://www.conicet.gov.ar">CONICET</a> funded PhD student at the <a href="https://mfis.dc.exa.unrc.edu.ar">Software Engineering and Formal Methods Group</a> working under the supervision of Professor [German Regis](https://gregistecco.github.io). 
 
 <br>
 
@@ -25,7 +25,6 @@ I am a <a href="https://www.conicet.gov.ar">CONICET</a> funded PhD student at th
 #### Service
 
 * [FM 2023 Artifact Evaluation Commitee](https://fm2023.isp.uni-luebeck.de/index.php/calls/#call-for-ae).
-
 * [iFM 2023 Artifact Evaluation Commitee](https://ifm23.liacs.nl/committees.html).
 
 <br>
