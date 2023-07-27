@@ -5,7 +5,7 @@
 
 * **Computer Science Phd student.** 
 
-* **Teaching Assistant** at the [Computer Science Department](http://dc.exa.unrc.edu.ar), [University of Rio Cuarto](https://www.unrc.edu.ar).
+* **Teaching Assistant** at the <a href="http://dc.exa.unrc.edu.ar" target="_blank" rel="noopener noreferrer">Computer Science Department</a>, <a href="https://www.unrc.edu.ar" target="_blank" rel="noopener noreferrer">University of Rio Cuarto</a>.
 
 ---
 
