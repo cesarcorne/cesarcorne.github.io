@@ -14,7 +14,7 @@
 <div style="text-align: justify"> 
 	
 
-I am a <a href="https://www.conicet.gov.ar">CONICET</a> funded PhD student at the <a href="https://mfis.dc.exa.unrc.edu.ar">Software Engineering and Formal Methods Group</a> working under the supervision of Professor [German Regis](https://gregistecco.github.io). 
+I am a <a href="https://www.conicet.gov.ar" target="_blank" rel="noopener noreferrer">CONICET</a> funded PhD student at the <a href="https://mfis.dc.exa.unrc.edu.ar" target="_blank" rel="noopener noreferrer">Software Engineering and Formal Methods Group</a> working under the supervision of Professor <a href="https://gregistecco.github.io" target="_blank" rel="noopener noreferrer">German Regis</a>. 
 
 <br>
 
