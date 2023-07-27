@@ -4,12 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   PhD student, Computer Science Department, University of Rio Cuarto and CONICET -  
 
   <br><br>
-  <a href="mailto:ccornejo@dc.exa.unrc.edu.ar">:e-mail: Email </a> 
-  <br><br>
   <a href=mailto:ccornejo@dc.exa.unrc.edu.ar"><img src="images/mail.jpeg" 
     width="32"
     height="22"/></a>
-
+  <link rel="stylesheet" href="academicons-1.9.4/academicons.min.css"/>
 
 
  
