@@ -7,29 +7,29 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href=mailto:ccornejo@dc.exa.unrc.edu.ar"><img src="images/mail.jpeg" 
     width="32"
     height="22"/></a>
-  <link rel="stylesheet" href="academicons-1.9.4/academicons.min.css"/>
+   <!-- Include style sheets -->
+    <link rel="stylesheet" href="main.css" />
 
+    <!-- Fonts from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;600&display=swap" rel="stylesheet" />
 
-  <ul class="icons">
-        <li>
-          <a href="" title="Institutional website"><i class="fas fa-university"></i></a>
-        </li>
-        <li>
-          <a href="" title="E-Mail"><i class="fas fa-envelope"></i></a>
-        </li>
-        <li>
-          <a href="" title="GitHub"><i class="fab fa-github"></i></a>
-        </li>
-        <li>
-          <a href="" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-        </li>
-        <li>
-          <a href="" title="NASA / ADS"><i class="ai ai-ads"></i></a>
-        </li>
-        <li>
-          <a href="" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-        </li>
-      </ul>
+    <!-- Load FontAwesome (for icons) -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+      integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+      crossorigin="anonymous"
+    />
+
+    <!-- Load Academicons (for more icons) -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css"
+      integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg=="
+      crossorigin="anonymous"
+    />
 
  
 
