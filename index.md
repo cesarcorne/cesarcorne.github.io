@@ -24,8 +24,8 @@ I am a <a href="https://www.conicet.gov.ar" target="_blank" rel="noopener norefe
 
 #### Service
 
-* [FM 2023 Artifact Evaluation Commitee](https://fm2023.isp.uni-luebeck.de/index.php/calls/#call-for-ae).
-* [iFM 2023 Artifact Evaluation Commitee](https://ifm23.liacs.nl/committees.html).
+* <a href="https://fm2023.isp.uni-luebeck.de/index.php/calls/#call-for-ae" target="_blank" rel="noopener noreferrer">FM 2023 Artifact Evaluation Commitee</a>.
+* <a href="https://ifm23.liacs.nl/committees.html" target="_blank" rel="noopener noreferrer">iFM 2023 Artifact Evaluation Commitee</a>.
 
 <br>
 
