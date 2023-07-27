@@ -31,27 +31,24 @@ description: > # your text below (remove <br> elements if you don't need line br
 
     <ul class="icons">
         <li>
-          <a href="mailto:ccornejo@dc.exa.unrc.edu.ar" title="E-Mail"><i class="fas fa-envelope"></i></a>
+          <a href="mailto:ccornejo@dc.exa.unrc.edu.ar" target="_blank" rel="noopener noreferrer" title="E-Mail"><i class="fas fa-envelope"></i></a>
         </li>
         <li>
-          <a href="https://dblp.org/pid/189/6219.html" title="dblp"><i class="ai ai-dblp"></i></a>
-        </li>
-        
-        <li>
-          <a href="https://github.com/cesarcorne" title="GitHub"><i class="fab fa-github"></i></a>
+          <a href="https://dblp.org/pid/189/6219.html" target="_blank" rel="noopener noreferrer" title="dblp"><i class="ai ai-dblp"></i></a>
         </li>
         <li>
-          <a href="https://www.researchgate.net/profile/Cesar-Cornejo-5" title="ResearchGate"><i class="fab fa-researchgate"></i></a>
+          <a href="https://www.researchgate.net/profile/Cesar-Cornejo-5" target="_blank" rel="noopener noreferrer" title="ResearchGate"><i class="fab fa-researchgate"></i></a>
         </li>
         <li>
-          <a href="https://scholar.google.com/citations?user=RWndQjwAAAAJ&hl=es&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+          <a href="https://scholar.google.com/citations?user=RWndQjwAAAAJ&hl=es&oi=ao" target="_blank" rel="noopener noreferrer" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
         </li>
         <li>
-          <a href="https://dc.exa.unrc.edu.ar" title="Institutional website"><i class="fas fa-university"></i></a>
+          <a href="https://github.com/cesarcorne" target="_blank" rel="noopener noreferrer" title="GitHub"><i class="fab fa-github"></i></a>
         </li>
-        
-
-      </ul>
+        <li>
+          <a href="https://dc.exa.unrc.edu.ar" target="_blank" rel="noopener noreferrer" title="Institutional website"><i class="fas fa-university"></i></a>
+        </li>
+    </ul>
 
 
 
