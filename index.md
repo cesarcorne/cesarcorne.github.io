@@ -33,7 +33,7 @@ I am a <a href="https://www.conicet.gov.ar" target="_blank" rel="noopener norefe
 
 #### News
 
-
+Our paper "A Study of the Electrum and DynAlloy Dynamic Behavior Notations" has been accepted for publication in IEEE Transactions on Software Engineering.
 
 <br>
 
