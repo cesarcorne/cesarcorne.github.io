@@ -6,6 +6,11 @@
 
 ---
 
+### 2023
+
+#### *A Study of the Electrum and DynAlloy Dynamic Behavior Notations* ####
+César Cornejo, Germán Regis, Nazareno Aguirre and Marcelo Frias. IEEE Transactions on Software Engineering, vol. 49, no. 11, pp. 4946-4963, Nov. 2023, doi: 10.1109/TSE.2023.3320625.
+
 ### 2019
 
 #### *An evolutionary approach to translating operational specifications into declarative specifications.*
