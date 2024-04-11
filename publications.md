@@ -27,7 +27,7 @@ Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro
 
 #### *An Analysis of the Impact of Field-Value Instance Navigation in Alloy’s Model Finding* 
 
-C. Cornejo, M. Novaira, S. Permigiani, N. Aguirre, M. Frias, S. Gutierrez, G. Regis. - Accepted for publication at 10th International Conference on Rigorous State-Based Methods (ABZ2024).
+C. Cornejo, M. Novaira, S. Permigiani, N. Aguirre, M. Frias, S. Gutierrez, G. Regis. - *Accepted for publication* at 10th International Conference on Rigorous State-Based Methods (ABZ2024) - June 2024.
 
 ### 2020
 
