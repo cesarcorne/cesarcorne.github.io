@@ -35,6 +35,8 @@ I am a <a href="https://www.conicet.gov.ar" target="_blank" rel="noopener norefe
 
 Our paper "A Study of the Electrum and DynAlloy Dynamic Behavior Notations" has been accepted for publication in IEEE Transactions on Software Engineering.
 
+Our paper "An Analysis of the Impact of Field-Value Instance Navigation in Alloy’s Model Finding" has been accepted for publication at 10th International Conference on Rigorous State-Based Methods (ABZ2024)
+
 <br>
 
 ---
