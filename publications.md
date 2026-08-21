@@ -6,6 +6,11 @@
 
 ---
 
+### 2025
+
+#### *An Empirical Study on the Suitability of Test-based Patch Acceptance Criteria.* ####
+L. Zemín, A. Godio, C. Cornejo, R. Degiovanni, S. Gutierrez Brida, G. Regis, N. Aguirre, M. Frias. ACM Transactions on Software Engineering and Methodology.
+
 ### 2023
 
 #### *A Study of the Electrum and DynAlloy Dynamic Behavior Notations* ####
@@ -22,6 +27,17 @@ Facundo Molina, César Cornejo, Renzo Degiovanni, Germán Regis, Pablo F. Castro
 ## Conferences
 
 ---
+
+### 2026
+
+#### *Evaluating Coverage and Fault Detection Capability of Scenario-Based Validation of Asmeta Specifications.* 
+
+A. Bombarda, S. Bonfanti, C. Cornejo, A.Gargantini, N. Pellegrinelli. - NASA Formal Methods - May 2026.
+
+#### *Evaluating the Practical Impact of Parallelism in Asmeta.* 
+
+A. Bombarda, S. Bonfanti, C. Cornejo, A.Gargantini, N. Pellegrinelli. - ABZ 2026 - May 2026.
+
 
 ### 2024
 
