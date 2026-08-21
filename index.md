@@ -19,9 +19,19 @@ I am a Postdoctoral Researcher at the University of Bergamo, working on software
 
 <br>
 
+<br>
+
+
 In July 2024, I received my Ph.D. at <a href="https://www.famaf.unc.edu.ar" target="_blank" rel="noopener noreferrer">FAMAF</a>, University of Cordoba, Argentina, under the supervision of Professor <a href="https://gregistecco.github.io" target="_blank" rel="noopener noreferrer">Germán Regis</a>. My Ph.D. thesis, "Specification of Dynamic Models and Automatic Property Analysis with Alloy-based Tools" is available <a href="https://rdu.unc.edu.ar/handle/11086/553418" target="_blank" rel="noopener noreferrer">here</a>.
 
+<br>
+
+<br>
+
+
 After completing my Ph.D. and before joining the University of Bergamo, I worked as a <a href="https://www.conicet.gov.ar" target="_blank" rel="noopener noreferrer">CONICET</a> funded Postdoctoral Researcher at the <a href="https://mfis.dc.exa.unrc.edu.ar" target="_blank" rel="noopener noreferrer">Software Engineering and Formal Methods Group</a> working under the supervision of Professor <a href="https://nmaguirre.github.io" target="_blank" rel="noopener noreferrer">Nazareno Aguirre</a>. 
+
+<br>
 
 <br>
 
@@ -29,7 +39,6 @@ After completing my Ph.D. and before joining the University of Bergamo, I worked
 My main research interests include software engineering, formal methods, program analysis, software verification, model checking, and software testing, with a particular interest in the development of tools that make automated analysis techniques more practical and accessible to software developers.
 
 
-<br>
 
 </div>
 
